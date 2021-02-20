@@ -13,15 +13,15 @@
  It updates every 1~4 sec.    
  By checking CPI, we could predict that whales in US and Wall street sell or buy.    
  If CPI > (Constant) > 0 then, they bought.    
- If CPI < (Constant) < 0 then, they sold.    
- Acutally, I don't know size of Constant. I think... Constant > 50.      
+ If CPI < (Constant) < 0 then, they sold.   
+ <br>
+ Acutally, I don't know size of Constant. I think... Constant > 50.       
+ Recently, when BTC was 52 -> 54K, I saw CPI > 50.      
+ Next day, BTC go 56K.      
  
- Recently, when BTC was 52 -> 54K, I saw CPI > 50. 
- Next day, BTC go 56K.    
  
- 
- I use threading, tkinter, ccxt, time, tradingview_ta, cbpro module.
- I try to construct thread...
+ I use threading, tkinter, ccxt, time, tradingview_ta, cbpro module.        
+ I try to construct thread...      
  
  
  ## Instruction
