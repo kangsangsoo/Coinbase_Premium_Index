@@ -1,4 +1,4 @@
-# Coinbase_Preminum_Index
+# Coinbase_Premium_Index
 
  CPI concept made by [CryptoQuant](https://cryptoquant.com/prochart/fdxeih58iv)
 
