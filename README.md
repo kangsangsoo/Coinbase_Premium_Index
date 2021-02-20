@@ -27,11 +27,11 @@
  ## Instruction
  1. Download CPI.py
  2. Install moudle
- <pre>
+<pre>
   pip install cbpro
   pip install ccxt
   pip install tradingview_ta
- </pre>
+</pre>
  3. execute by IDE or make .exe     
  4. click start     
  ![](images/before.png)
