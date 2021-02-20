@@ -8,6 +8,7 @@
  CPI = (Coinbase Price) - (Binance Price) * (Tether Index)     
  CPI = BTC/USD - BTC/USDT * USDT/USD     
  
+ ![](images/after.png)
  
  By checking CPI, we could predict that whale in US and Wall street sell or buy.    
  If CPI > (Constant) > 0 then, they bought.    
@@ -31,7 +32,8 @@
   pip install tradingview_ta
  </pre>
  3. execute by IDE or make .exe     
-
+ 4. click start
+ ![](images/before.png)
 
  Thanks
  
