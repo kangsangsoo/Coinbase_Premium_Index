@@ -37,6 +37,4 @@
  ![](images/before.png)     
  
  <br>
- <hr>
- Thanks
  
