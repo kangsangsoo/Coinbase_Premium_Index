@@ -1,6 +1,6 @@
 # Coinbase_Preminum_Index
 
- CPI made by [CryptoQuant](https://cryptoquant.com/prochart/fdxeih58iv)
+ CPI concept made by [CryptoQuant](https://cryptoquant.com/prochart/fdxeih58iv)
 
  What means the Coinbase Premium Index(CPI)?    
  It shows difference between BTC/USD(in Coinbase pro) and BTC/USDT(in Binance).     
