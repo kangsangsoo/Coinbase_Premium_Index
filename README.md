@@ -32,7 +32,7 @@
   pip install tradingview_ta
  </pre>
  3. execute by IDE or make .exe     
- 4. click start
+ 4. click start     
  ![](images/before.png)
 
  Thanks
