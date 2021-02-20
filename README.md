@@ -10,7 +10,7 @@
  
  ![](images/after.png)
  
- It updates every 1~4 sec.
+ It updates every 1~4 sec.    
  By checking CPI, we could predict that whale in US and Wall street sell or buy.    
  If CPI > (Constant) > 0 then, they bought.    
  If CPI < (Constant) < 0 then, they sold.    
