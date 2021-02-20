@@ -36,6 +36,7 @@
  4. click start     
  ![](images/before.png)     
  
-
+ <br>
+ <hr>
  Thanks
  
