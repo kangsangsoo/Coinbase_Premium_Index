@@ -1,4 +1,4 @@
-# Coinbase_Premium_Index
+# Coinbase_Premium_Index in Python
 
  CPI concept made by [CryptoQuant](https://cryptoquant.com/prochart/fdxeih58iv)
 
