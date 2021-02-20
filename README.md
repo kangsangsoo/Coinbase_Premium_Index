@@ -34,7 +34,8 @@
 </pre>
  3. execute by IDE or make .exe     
  4. click start     
- ![](images/before.png)
+ ![](images/before.png)     
+ 
 
  Thanks
  
